@@ -5,7 +5,7 @@ metadata:
   labels:
     app: healthcare-app
 spec:
-  replicas: 3
+  replicas: 5
   selector:
     matchLabels:
       app: healthcare-app
